@@ -1,4 +1,4 @@
-# ☁️ 100 Days of Cloud – AWS (KodeKloud)
+# ☁️ 67 Days of Cloud – AWS (KodeKloud)
 
 Welcome to my **100 Days of Cloud Challenge** focused on **Amazon Web Services (AWS)** using KodeKloud! 🚀
 
