@@ -1,5 +1,5 @@
 # EC2 Instance Cleanup Guide
-![image](https://github.com/abhijitray7810/100-Days-of-Cloud-AWS-Kodekloud/blob/ae7de1a55f4670ed942aa9b679b1c35898591e9a/Day%2014%3A%20Terminate%20EC2%20Instance/Screenshot%202025-12-16%20001625.png)
+![image] (https://github.com/abhijitray7810/100-Days-of-Cloud-AWS-Kodekloud/blob/ae7de1a55f4670ed942aa9b679b1c35898591e9a/Day%2014%3A%20Terminate%20EC2%20Instance/Screenshot%202025-12-16%20001625.png)
 ## Overview
 This document provides instructions for deleting the obsolete EC2 instance `xfusion-ec2` in the AWS `us-east-1` region.
 
