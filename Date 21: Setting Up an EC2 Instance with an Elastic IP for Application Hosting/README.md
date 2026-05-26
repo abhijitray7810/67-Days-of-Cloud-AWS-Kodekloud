@@ -1,6 +1,6 @@
 # EC2 Instance with Elastic IP Setup - README 
 ![image](https://github.com/abhijitray7810/100-Days-of-Cloud-AWS-Kodekloud/blob/d2048f68afeca9230209c49549acfc60fd2393b2/Date%2021%3A%20Setting%20Up%20an%20EC2%20Instance%20with%20an%20Elastic%20IP%20for%20Application%20Hosting/Screenshot%202025-12-17%20194123.png)
-## Overview
+## Overview 
 This guide provides steps to create an EC2 instance named `nautilus-ec2` with an associated Elastic IP named `nautilus-eip` for the Nautilus DevOps Team.
 
 ## Prerequisites
