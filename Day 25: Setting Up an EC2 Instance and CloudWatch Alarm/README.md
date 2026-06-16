@@ -7,7 +7,7 @@ This document describes the steps to launch an EC2 instance and configure a Clou
 ## 📌 Requirements
 
 - **Region:** us-east-1
-- **EC2 Name:** datacenter-ec2
+- **EC2 Name:** datacenter-ec2 
 - **Alarm Name:** datacenter-alarm
 - **Metric:** CPUUtilization
 - **Threshold:** ≥ 90%
