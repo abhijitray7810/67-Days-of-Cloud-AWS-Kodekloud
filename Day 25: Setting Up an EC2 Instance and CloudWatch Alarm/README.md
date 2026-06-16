@@ -1,5 +1,5 @@
 # EC2 Instance & CloudWatch Alarm Setup (Nautilus DevOps)
-
+ 
 This document describes the steps to launch an EC2 instance and configure a CloudWatch alarm to monitor CPU utilization using AWS CLI. 
   
 ---
