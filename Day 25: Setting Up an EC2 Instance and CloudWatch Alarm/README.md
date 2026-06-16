@@ -10,7 +10,7 @@ This document describes the steps to launch an EC2 instance and configure a Clou
 - **EC2 Name:** datacenter-ec2 
 - **Alarm Name:** datacenter-alarm
 - **Metric:** CPUUtilization
-- **Threshold:** ≥ 90%
+- **Threshold:** ≥ 90% 
 - **Evaluation Period:** 1 × 5 minutes
 - **SNS Topic:** datacenter-sns-topic (pre-created)
 
