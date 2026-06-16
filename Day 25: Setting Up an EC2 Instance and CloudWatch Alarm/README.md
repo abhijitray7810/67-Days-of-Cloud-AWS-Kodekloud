@@ -4,7 +4,7 @@ This document describes the steps to launch an EC2 instance and configure a Clou
   
 ---
 ![image](https://github.com/abhijitray7810/100-Days-of-Cloud-AWS-Kodekloud/blob/474f1e579e4980141fae62d6d7ea25f8ec1a3c49/Day%2025%3A%20Setting%20Up%20an%20EC2%20Instance%20and%20CloudWatch%20Alarm/Screenshot%202025-12-23%20213826.png)
-## 📌 Requirements
+## 📌 Requirements 
 
 - **Region:** us-east-1
 - **EC2 Name:** datacenter-ec2 
