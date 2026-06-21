@@ -9,7 +9,7 @@ This project demonstrates how to migrate data from an existing Amazon S3 bucket 
 - Create a new **private S3 bucket**
 - Migrate all data from the existing bucket to the new bucket
 - Ensure both buckets contain identical data
-- Perform all operations using AWS CLI
+- Perform all operations using AWS CLI 
 - Use the **us-east-1** AWS region
 
 ---
