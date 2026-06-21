@@ -14,7 +14,7 @@ This project demonstrates how to migrate data from an existing Amazon S3 bucket 
 
 --- 
 
-## 🛠️ Prerequisites
+## 🛠️ Prerequisites 
 Before starting, ensure the following:
 
 - AWS CLI installed and configured
