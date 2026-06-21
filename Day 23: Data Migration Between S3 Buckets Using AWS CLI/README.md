@@ -11,7 +11,7 @@ This project demonstrates how to migrate data from an existing Amazon S3 bucket 
 - Ensure both buckets contain identical data
 - Perform all operations using AWS CLI 
 - Use the **us-east-1** AWS region
-
+ 
 --- 
 
 ## 🛠️ Prerequisites 
