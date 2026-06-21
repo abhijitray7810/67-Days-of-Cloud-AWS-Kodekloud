@@ -12,7 +12,7 @@ This project demonstrates how to migrate data from an existing Amazon S3 bucket 
 - Perform all operations using AWS CLI 
 - Use the **us-east-1** AWS region
 
----
+--- 
 
 ## 🛠️ Prerequisites
 Before starting, ensure the following:
